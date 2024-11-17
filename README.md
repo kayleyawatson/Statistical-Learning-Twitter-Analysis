@@ -16,12 +16,14 @@ To use this project with R, follow these steps:
    install.packages("tidyverse")
    install.packages("tidytext")
    install.packages("lubridate")
+   install.packages("caret")
    install.packages("ggwordcloud")
 
    library(tidyverse)
    library(tidytext)
    library(lubridate)
    library(ggwordcloud)
+   library(caret)
 
    #Ctrl + Shift + C (on Windows/Linux) or Command + Shift + C (on macOS) to comment out
    install.packages when finished installing.
